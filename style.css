@@ -1,9 +1,19 @@
+body {
+  margin: 0;
+}
+
 .content-middle {
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
   height: 100vh;
+  background-color: #FD0F0E;
+}
+
+.content-middle h1 {
+  color: white;
+  margin: 0;
 }
 
 .img-circle {
